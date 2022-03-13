@@ -9,7 +9,7 @@ Aplicação desenvolvida no  desafio Ignite React da Rocketseat - Desafio 01 - C
 </p>
 
 <h1 align="center">
-  <img alt="logo" title="#logo" src="./src/assets/rockeshoes.gif" />
+  <img alt="logo" title="#logo" src="./src/assets/rocketshoes.gif" />
 </h1>
 
 ## :rocket: Tecnologias
