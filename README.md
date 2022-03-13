@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="./src/assets/rockeshoes.png" height="100px" alt="Rockeshoes"/>
+  <img src="./src/assets/rocketshoes.png" height="100px" alt="Rockeshoes"/>
 </h1>
 
 <h2 align="center" >Descrição do Projeto</h2>
 <p align="center">
-Aplicação desenvolvida no  desafio Ignite React da Rocketseat - Desafio 01 -Criando um hook de carrinho de compras.
+Aplicação desenvolvida no  desafio Ignite React da Rocketseat - Desafio 01 - Criando um hook de carrinho de compras.
 
 </p>
 
