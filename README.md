@@ -22,7 +22,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️ Styled-components
 
+✔️ React-Toastify
+
 ✔️ React-hooks
+
+✔️ Axios
 
 ✔️ Sass
 
